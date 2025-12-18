@@ -45,12 +45,12 @@ Swagger UI (Public API Documentation):
 
 ## Run Locally
 
-```bash
+```
 docker build -t insurance-ml-api .
 docker run -p 8000:8000 insurance-ml-api
 # Then open:
 http://localhost:8000/docs
-
+```
 ---
 
 Monitoring & Experiment Tracking (MLflow)
