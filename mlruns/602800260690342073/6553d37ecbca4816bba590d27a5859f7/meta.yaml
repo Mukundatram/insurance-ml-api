@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/mukun/Downloads/0-3_Years_Sample_Resume_ATS_Template.docx/mlruns/602800260690342073/6553d37ecbca4816bba590d27a5859f7/artifacts
+end_time: 1766090136496
+entry_point_name: ''
+experiment_id: '602800260690342073'
+lifecycle_stage: active
+run_id: 6553d37ecbca4816bba590d27a5859f7
+run_name: inference
+run_uuid: 6553d37ecbca4816bba590d27a5859f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766090136336
+status: 3
+tags: []
+user_id: mukund
