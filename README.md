@@ -21,4 +21,9 @@ https://insurance-ml-api-production.up.railway.app/docs
 docker build -t insurance-ml-api .
 docker run -p 8000:8000 insurance-ml-api
 
+## Monitoring & Experiment Tracking
+- Implemented MLflow for experiment tracking during model training
+- Logged model parameters, evaluation metrics, and artifacts
+- Added inference-time logging to track prediction metadata
+- Enabled model version traceability for production monitoring
 
