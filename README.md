@@ -2,7 +2,7 @@
 
 ## Overview
 This project is a **production-ready machine learning inference service** that predicts health insurance premiums based on user demographics, lifestyle, and medical history.  
-The system is deployed as a REST API using **FastAPI**, containerized with **Docker**, and hosted on **Railway**.
+The system is deployed as a REST API using **FastAPI**, containerized with **Docker**, and hosted on **Render**.
 
 ---
 
@@ -39,7 +39,7 @@ GET /health
 
 ## Live Demo
 Swagger UI (Public API Documentation):  
-🔗 https://insurance-ml-api-production.up.railway.app/docs
+🔗 https://insurance-ml-api-lcqd.onrender.com/docs
 
 ---
 
